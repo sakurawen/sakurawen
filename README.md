@@ -10,7 +10,7 @@ A Frontend developer from GangZhou, China.
 
 ### 🏡  Blog
 
-- [wenhouman.netlify.com](https://wenhouman.netlify.app/)
+- [wenhouman.vercel.app](https://wenhouman.vercel.app/)
 
 
 ###  📮 Contact me
