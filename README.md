@@ -10,7 +10,7 @@ A Frontend developer from GangZhou, China.
 
 ### 🏡  Blog
 
-- [akumanoko.com](https://www.akumakono.com/)
+- [akumanoko.com](https://www.akumanoko.com/)
 
 
 ###  📮 Contact me
