@@ -4,9 +4,11 @@
 
 A Frontend developer from GangZhou, China.
 
-
-| <img src="https://github-readme-stats.vercel.app/api?username=sakurawen&count_private=true&show_icons=true&theme=buefy&hide_border=true"/> | <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakurawen&layout=compact&theme=buefy&hide_border=true" /> |
-| ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=sakurawen&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%23d3dee8%2C%20%23a9b5dd)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=sakurawen&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%23d3dee8%2C%20%23a9b5dd)">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=sakurawenn&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+</picture>
 
 ### 🏡  Blog
 
